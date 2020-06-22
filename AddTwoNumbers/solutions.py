@@ -53,22 +53,23 @@ class Solution:
         first_value = self.getStrValue(l1)
         second_value = self.getStrValue(l2)
         sum_value_reversed = str(int(first_value) + int(second_value))[::-1]
+
+        # initialise result and temp obejcts --> equate result and temp so that when temp changes, result also change!
+        result = ListNode(int(sum_value_reversed[0]))
+        temp = result
+        sum_value_reversed = sum_value_reversed[1:]
         
+        # temp.next that is equal to the ListNode ==> cos the temp is alr filled!, need to fill the next one
+        # temp = temp.next --> keep adding .next function into the temp so the can continue for as long as the length of the sum
         while len(sum_value_reversed) > 0:
             char = int(sum_value_reversed[0])
-            result = ListNode(char)
+            temp.next = ListNode(char)
             sum_value_reversed = sum_value_reversed[1:]
-            print(char)
-            result = result.next
-
-        print(result.val)
-        # result = ListNode(7)
-        # result.next = ListNode(0)
-        # result.next.next = ListNode(8)
+            temp = temp.next
+        
         return result
 
 l1 = ListNode(2)
-print(l1)
 l1.next = ListNode(4)
 l1.next.next = ListNode(3)
 
