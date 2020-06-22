@@ -32,3 +32,52 @@ while result:
   result = result.next
 # 7 0 8
 """
+
+# Definition for singly-linked list.
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+class Solution:
+    def getStrValue(self, node):
+        value = ''
+        while node:
+            value += str(node.val)
+            node = node.next
+        value = value[::-1]
+        return value
+
+    def addTwoNumbers(self, l1, l2, c = 0):
+        # Fill this in.
+        first_value = self.getStrValue(l1)
+        second_value = self.getStrValue(l2)
+        sum_value_reversed = str(int(first_value) + int(second_value))[::-1]
+        
+        while len(sum_value_reversed) > 0:
+            char = int(sum_value_reversed[0])
+            result = ListNode(char)
+            sum_value_reversed = sum_value_reversed[1:]
+            print(char)
+            result = result.next
+
+        print(result.val)
+        # result = ListNode(7)
+        # result.next = ListNode(0)
+        # result.next.next = ListNode(8)
+        return result
+
+l1 = ListNode(2)
+print(l1)
+l1.next = ListNode(4)
+l1.next.next = ListNode(3)
+
+l2 = ListNode(5)
+l2.next = ListNode(6)
+l2.next.next = ListNode(4)
+
+result = Solution().addTwoNumbers(l1, l2)
+while result:
+    print(result.val)
+    result = result.next
+# 7 0 8
