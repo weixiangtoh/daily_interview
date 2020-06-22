@@ -1,5 +1,6 @@
 """
-You are given two linked-lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. 
+You are given two linked-lists representing two non-negative integers. 
+The digits are stored in reverse order and each of their nodes contain a single digit. 
 Add the two numbers and return it as a linked list.
 
 Example:
@@ -60,7 +61,8 @@ class Solution:
         sum_value_reversed = sum_value_reversed[1:]
         
         # temp.next that is equal to the ListNode ==> cos the temp is alr filled!, need to fill the next one
-        # temp = temp.next --> keep adding .next function into the temp so the can continue for as long as the length of the sum
+        # temp = temp.next --> keep adding .next function into the temp 
+        #                       so the can continue for as long as the length of the sum
         while len(sum_value_reversed) > 0:
             char = int(sum_value_reversed[0])
             temp.next = ListNode(char)
