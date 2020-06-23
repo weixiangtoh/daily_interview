@@ -13,14 +13,17 @@ class Solution:
     def lengthOfLongestSubstring(self, s):
         # Fill this in.
         longest_length = 0
-        for i in range(len(s)-1):
-            store_array = [ s[i] ]
+        # make everything lowercase
+        string = s.lower()
 
-            for j in range(i+1, len(s)-1):
-                if s[j] in store_array:
+        for i in range(len(string)-1):
+            store_array = [ string[i] ]
+
+            for j in range(i+1, len(string)-1):
+                if string[j] in store_array:
                     break
                 else:
-                    store_array.append(s[j])
+                    store_array.append(string[j])
             
             if len(store_array) > longest_length:
                 longest_length = len(store_array)
