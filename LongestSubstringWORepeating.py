@@ -16,10 +16,10 @@ class Solution:
         # make everything lowercase
         string = s.lower()
 
-        for i in range(len(string)-1):
+        for i in range(len(string)):
             store_array = [ string[i] ]
 
-            for j in range(i+1, len(string)-1):
+            for j in range(i+1, len(string)):
                 if string[j] in store_array:
                     break
                 else:
