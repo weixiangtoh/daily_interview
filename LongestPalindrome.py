@@ -29,6 +29,10 @@ class Solution:
         # Fill this in.
         longest_len = 0
         longest_palindrome = ""
+
+        # change all to lowercase
+        s = s.lower()
+
         for i in range(len(s)):
             store_string = ""
 
@@ -48,3 +52,7 @@ print(str(Solution().longestPalindrome("banana")))
 # anana
 print(str(Solution().longestPalindrome("million")))
 # illi
+print(str(Solution().longestPalindrome("forgeeksskeegfor")))
+# geeksskeeg
+print(str(Solution().longestPalindrome("GEeks")))
+# ee
