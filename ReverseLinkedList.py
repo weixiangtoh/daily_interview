@@ -75,8 +75,6 @@ class ListNode(object):
             head.next = output # REVERSE! None, first time round.
             output = head # Used in the next iteration.
             head = temp # Move to next node.
-        while output:
-            print(output.val)
         return output
 
     # Recursive Solution      
