@@ -11,3 +11,4 @@ Daily interview questions posted:
 - <a href='/ValidateParentheses.py'>Validate Balanced Parentheses</a>
 - <a href='/FirstandLastIndicesofSortedArr.py'>First and Last Indices of an Element in a Sorted Array</a>
 - <a href='/ReverseLinkedList.py'> Reverse a Linked List</a>
+- <a href='/SortingListwith3uniqueNumbers.py'>Sorting a list with 3 unique numbers</a>
