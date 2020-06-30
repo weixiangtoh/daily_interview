@@ -14,3 +14,4 @@ Daily interview questions posted:
 - <a href='/ReverseLinkedList.py'> Reverse a Linked List</a>
 - <a href='/SortingListwith3uniqueNumbers.py'>Sorting a list with 3 unique numbers</a>
 - <a href='/TwoSum.py'>Two-Sum</a>
+- <a href='/FindNonDuplicateNumber.py'>Find the non-duplicate number</a>
