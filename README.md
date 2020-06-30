@@ -1,8 +1,7 @@
 # Questions from Daily Interview Pro
 
 <em>Questions are sent via email by <a href='https://www.techseries.dev/daily'>Daily Interview Pro</a></em>
-
-Added <a href='/Cracking_the_Coding_Interview_6thEdition.pdf'>Cracking the Coding Interview (<em>in PDF</em>)</a> into the repo
+- I have added <a href='/Cracking_the_Coding_Interview_6thEdition.pdf'>Cracking the Coding Interview (<em>in PDF</em>)</a> into the repository for more resource!
 
 <br/>
 
