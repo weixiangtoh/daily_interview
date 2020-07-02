@@ -15,3 +15,4 @@ Daily interview questions posted:
 - <a href='/SortingListwith3uniqueNumbers.py'>Sorting a list with 3 unique numbers</a>
 - <a href='/TwoSum.py'>Two-Sum</a>
 - <a href='/FindNonDuplicateNumber.py'>Find the non-duplicate number</a>
+- <a href='/Non-decreasingArraywithSingleModification.py'>Non-decreasing Array with Single Modification</a>
