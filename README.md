@@ -18,3 +18,4 @@ Daily interview questions posted:
 - <a href='/Non-decreasingArraywithSingleModification.py'>Non-decreasing Array with Single Modification</a>
 - <a href='/FloorCellingBinaryTree.py'>Floor and Celling in a Binary Tree </a><em>(Not attempted)</em>
 - <a href='/MaximumStack.py'>Maximum in a Stack</a>
+- <a href='/NumWaytoClimbStairs.py'>Number of Ways to Climb a Staircase</a>
