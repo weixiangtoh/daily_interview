@@ -23,3 +23,6 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Number of Ways to Climb a Staircase](/NumWaytoClimbStairs.py)
 - [Find Pythagorean Triplets](/PythagoreanTriplets.py)
 - [Edit Distance](/EditDistance.py) ***(Not attempted)***
+- [Create a Simple Calculator](/SimpleCalculator.py) ***(Not attempted)***
+- [Find the Cycles in a Graph](/CylesInGraph.py) ***(Not attempted)***
+- [Word Search](/WordSearch.py)
