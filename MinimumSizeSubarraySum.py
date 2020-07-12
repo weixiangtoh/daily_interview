@@ -21,6 +21,11 @@ print Solution().minSubArrayLen([2, 3, 1, 2, 4, 3], 7)
 class Solution:
     def minSubArrayLen(self, nums, s):
         # Fill this in
+
+        # check last item in list
+        if nums[-1] >= s:
+            return 1
+            
         min_len = len(nums)
         # cannot count the last item on the list as it will always return count = 1
         for i in range(len(nums)-1):
