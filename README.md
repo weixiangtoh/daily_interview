@@ -27,3 +27,4 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Find the Cycles in a Graph](/CylesInGraph.py) ***(Not attempted)***
 - [Word Search](/WordSearch.py)
 - [Minimum Size Subarray Sum](/MinimumSizeSubarraySum.py)
+- [Ways to Traverse a Grid](/TraverseGrid.py)

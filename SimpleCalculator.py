@@ -98,6 +98,7 @@ def eval(expression):
 
   return expression
 
+# does not take into account BOMUS rules for no brackets
 
 print(eval('- (3 + ( 2 - 1 ) )'))
 # -4
