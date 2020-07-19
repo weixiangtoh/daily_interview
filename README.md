@@ -30,3 +30,7 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Ways to Traverse a Grid](/TraverseGrid.py)
 - [Intersection of Linked Lists](/IntersectionOfLinkedLists.py)
 - [Falling Dominoes](/FallingDominoes.py)
+- [Remove Consecutive Nodes that Sum up to 0](/RemoveConsecutiveNodesSum.py) ***(Not attempted)***
+- [Remove k-th Last Element from Linked Lists](/RemoveK-thLastElementFromLinkedLists.py) ***(Not attempted)***
+- [Witness of Tall People](/WitnessOfTallPeople.py)
+- [Course Prerequisites](/CoursePrerequisites.py) ***(Not attempted)***
