@@ -34,3 +34,5 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Remove k-th Last Element from Linked Lists](/RemoveK-thLastElementFromLinkedLists.py) ***(Not attempted)***
 - [Witness of Tall People](/WitnessOfTallPeople.py)
 - [Course Prerequisites](/CoursePrerequisites.py) ***(Not attempted)***
+- [Move Zeros](/MoveZeros.py)
+- [Find the k-th Largest Element in a List](/FindKthLargestElementInList.py)
