@@ -24,7 +24,7 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Find Pythagorean Triplets](/PythagoreanTriplets.py)
 - [Edit Distance](/EditDistance.py) ***(Not attempted)***
 - [Create a Simple Calculator](/SimpleCalculator.py)
-- [Find the Cycles in a Graph](/CylesInGraph.py) ***(Not attempted)***
+- [Find the Cycles in a Graph](/CyclesInGraph.py) ***(Not attempted)***
 - [Word Search](/WordSearch.py)
 - [Minimum Size Subarray Sum](/MinimumSizeSubarraySum.py)
 - [Ways to Traverse a Grid](/TraverseGrid.py)
