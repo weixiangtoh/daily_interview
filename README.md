@@ -40,3 +40,4 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Largest Product Of 3 Elements](/LargestProductOf3Elements.py)
 - [Merge Overlapping Intervals](/MergeOverlappingIntervals.py)
 - [Maximum Profit From Stocks](/MaximumProfitFromStocks.py)
+- [Queue Using Two Stacks](/QueueUsingTwoStacks.py)
