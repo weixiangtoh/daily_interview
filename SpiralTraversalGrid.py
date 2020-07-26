@@ -51,11 +51,9 @@ def matrix_spiral_print(M):
         num_list += M.pop(0)
         M = rotate_matrix(M)
 
-    result = ""
     for item in num_list:
-        result += str(item) + " "
+        print(str(item), end=" ")
 
-    print(result)
 
 grid = [[1,  2,  3,  4,  5],
         [6,  7,  8,  9,  10],
@@ -64,5 +62,7 @@ grid = [[1,  2,  3,  4,  5],
 
 matrix_spiral_print(grid)
 # 1 2 3 4 5 10 15 20 19 18 17 16 11 6 7 8 9 14 13 12
-print("1 2 3 4 5 10 15 20 19 18 17 16 11 6 7 8 9 14 13 12")
-# print(rotate_matrix(grid))
+test_case = "1 2 3 4 5 10 15 20 19 18 17 16 11 6 7 8 9 14 13 12 "
+print()
+print(test_case)
+# print(rotate_matrix(grid)) 
