@@ -22,10 +22,16 @@ def first_missing_positive(nums):
     
     min_value = 1
     for items in set(nums):
-        if min_value == items:
-            min_value += 1
-        elif items != min_value and items != 0:
+        if items != min_value and items != 0:
             return min_value
+        min_value += 1
+
+    # only for python
+    # count = 1
+    # for items in nums:
+    #     if count not in nums:
+    #         return count
+    #     count +=1
 
 
 print(first_missing_positive([3, 4, -1, 1]))
