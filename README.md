@@ -48,3 +48,4 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Buddy Strings](/BuddyStrings.py)
 - [Deepest Node in a Binary Tree](/DeepestNodeInBinaryTree.py)
 - [Look and Say Sequence](/LookAndSaySequence.py) ***(Not attempted)***
+- [First Missing Positive Integer](/FirstMissingPositiveInteger.py)
