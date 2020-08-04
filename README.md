@@ -2,7 +2,7 @@
 
 *Questions are sent via email by [Daily Interview Pro](https://www.techseries.dev/daily)*  
 
-I have added [Cracking the Coding Interview](https://drive.google.com/file/d/1W070uK5nviIIMDDL5OYEZv9b3by2c_70/view) *(in PDF)* into the repository for more resource!  
+I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf) *(in PDF)* into the repository for more resource!  
   
 <br>
   
