@@ -50,3 +50,7 @@ I have added [Cracking the Coding Interview](/Cracking_the_Coding_Interview_6thE
 - [Look and Say Sequence](/LookAndSaySequence.py) ***(Not attempted)***
 - [First Missing Positive Integer](/FirstMissingPositiveInteger.py)
 - [Validate Binary Search Tree](/ValidateBinarySearchTree.py) ***(Not attempted)***
+
+## Other Interview questions:
+- [Students Standing Position](/StudentsStandingPosition.py)
+- [Monsoon Umbrellas](/MonsoonUmbrellas.py)
