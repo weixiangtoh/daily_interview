@@ -45,6 +45,7 @@ class Node(object):
         # string representation
         return self.val
 
+# find the deepest height
 def height_node(node):
     if not node:
         return 0
@@ -53,9 +54,24 @@ def height_node(node):
 # so far only returns level of deepest node
 def deepest(node):
     # Fill this in.
-    height =  height_node(node)
-    # value = deepest(node.left)
-    return height
+    temp = node
+    # find the deepest height
+    height =  height_node(temp)
+    value = []
+
+    # find the value that matches the deepest height
+    def get_node(node, h, height):
+      if node is None:
+          return 
+
+      if h == height:
+        value.append(node.val)
+
+      get_node(node.left, h+1, height)
+      get_node(node.right, h+1, height)
+
+    get_node(node, 1, height)
+    return (value.pop(), height)
 
 root = Node('a')
 root.left = Node('b')
