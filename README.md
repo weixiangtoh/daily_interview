@@ -49,7 +49,7 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Deepest Node in a Binary Tree](/DeepestNodeInBinaryTree.py)
 - [Look and Say Sequence](/LookAndSaySequence.py) ***(Not attempted)***
 - [First Missing Positive Integer](/FirstMissingPositiveInteger.py)
-- [Validate Binary Search Tree](/ValidateBinarySearchTree.py) ***(Not attempted)***
+- [Validate Binary Search Tree](/ValidateBinarySearchTree.py) 
 - [Get all Values at a Certain Height in a Binary Tree](/GetValuesAtCertainHeightBinaryTree.py)
 
 ## Other Interview questions:
