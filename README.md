@@ -51,6 +51,7 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [First Missing Positive Integer](/FirstMissingPositiveInteger.py)
 - [Validate Binary Search Tree](/ValidateBinarySearchTree.py) 
 - [Get all Values at a Certain Height in a Binary Tree](/GetValuesAtCertainHeightBinaryTree.py)
+- [Longest Substring With K Distinct Characters](/LongestSubstringWithKDistinctCharacters.py)
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
