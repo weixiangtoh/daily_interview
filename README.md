@@ -53,7 +53,7 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Get all Values at a Certain Height in a Binary Tree](/GetValuesAtCertainHeightBinaryTree.py)
 - [Longest Substring With K Distinct Characters](/LongestSubstringWithKDistinctCharacters.py)
 - [Count Number of Unival Subtrees](/CountNumberUnivalSubtrees.py)
-- [Reconstrunct Binary Tree from Preorder and Inorder Traversals](/ReconstrunctBinaryTreePreorderInorderTraversals.py) ***(Not attempted)***
+- [Reconstrunct Binary Tree from Preorder and Inorder Traversals](/ReconstrunctBinaryTreePreorderInorderTraversals.py)
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
