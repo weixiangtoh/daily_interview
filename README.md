@@ -56,6 +56,7 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Reconstrunct Binary Tree from Preorder and Inorder Traversals](/ReconstrunctBinaryTreePreorderInorderTraversals.py)
 - [Sort Colors](/SortColors.py)
 - [Word Ordering in a Different Alphabetical Order](/WordOrderingInDifferentAlphabeticalOrder.py)
+- [3 Sum](/3Sum.py)
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
