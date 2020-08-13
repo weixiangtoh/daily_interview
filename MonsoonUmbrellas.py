@@ -30,14 +30,16 @@ Constraints:
 - 1 <= requirement, m, sizes[i] <= 1000
 """
 def getUmbrellas(requirement, sizes):
-    count = 0
+    stack = [0] + [float('inf')] * requirement
+
     for umbrella in sizes:
-        if requirement % umbrella == 0:
-            count+= int(requirement / umbrella)
-    if count == 0:
+        for i in range(umbrella, requirement+1):
+            stack[i] = min(stack[i], stack[i-umbrella]+1)
+            
+    if stack[-1] != float('inf'):
+        return stack[-1] 
+    else:
         return -1
-    
-    return count
 
 print(getUmbrellas(5, [3,5]))
 # 1

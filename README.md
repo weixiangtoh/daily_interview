@@ -58,6 +58,8 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Word Ordering in a Different Alphabetical Order](/WordOrderingInDifferentAlphabeticalOrder.py)
 - [3 Sum](/3Sum.py)
 - [Largest BST in a Binary Tree](/LargestBSTBinaryTree.py) ***(Not attempted)***
+- [Find the Number of Islands](/FindNumberOfIslands.py) ***(Not attempted)***
+- [Minimum Removals for Valid Parenthesis](/MinimumRemovalsForValidParenthesis.py) ***(Not attempted)***
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
