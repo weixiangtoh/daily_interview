@@ -62,6 +62,7 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Minimum Removals for Valid Parenthesis](/MinimumRemovalsForValidParenthesis.py) ***(Not attempted)***
 - [Group Words that are Anagrams](/GroupWordsAnagrams.py)
 - [Running Median](/RunningMedian.py)
+- [Room scheduling](/RoomScheduling.py)
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
