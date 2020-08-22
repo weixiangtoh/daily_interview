@@ -64,6 +64,10 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Running Median](/RunningMedian.py)
 - [Room scheduling](/RoomScheduling.py)
 - [Reverse Words in a String](/ReverseWordsInString.py)
+- [Merge List Of Number Into Ranges](/MergeListOfNumberIntoRanges.py)
+- [Product of Array Except Self](/ProductOfArrayExceptSelf.py)
+- [Given two arrays, write a function to compute their intersection.](/ArrayIntersection.py)
+- [Longest Increasing Subsequence](/LongestIncreasingSubsequence.py) ***(Not attempted)***
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
