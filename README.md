@@ -70,6 +70,11 @@ I have added [Cracking the Coding Interview](https://github.com/alxerg/Books-1/b
 - [Longest Increasing Subsequence](/LongestIncreasingSubsequence.py) ***(Not attempted)***
 - [Angles of a Clock](/AnglesOfClock.py)
 - [Arithmetic Binary Tree](/ArithmeticBinaryTree.py) ***(Not attempted)***
+- [Tree Serialization](/TreeSerialization.py) ***(Not attempted)***
+- [Distribute Bonuses](/DistributeBonuses.py) ***(Not attempted)***
+- [Min Range Needed to Sort](/MinRangeNeededToSort.py) ***(Not attempted)***
+- [Reverse Integer](/ReverseInteger.py) ***(Not attempted)***
+- [Min Stack](/MinStack.py) ***(Not attempted)***
 
 ## Other Interview questions:
 - [Students Standing Position](/StudentsStandingPosition.py)
